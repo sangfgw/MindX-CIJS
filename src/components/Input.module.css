@@ -1,0 +1,18 @@
+.input-group + .input-group {
+  margin-top: 1rem; /* 16px */
+}
+
+label:has(+ .sign-up-input) {
+  display: block;
+}
+
+.sign-up-input {
+  width: 100%;
+  padding: 0.125rem 0.5rem; /* 2px */
+  border: 1.5px solid #dcdfe3;
+  border-radius: 0.25rem;
+}
+
+.sign-up-input:focus {
+  outline: none;
+}

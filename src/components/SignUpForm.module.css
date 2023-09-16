@@ -1,0 +1,21 @@
+.form-control {
+  width: 1000px;
+}
+
+.btn + .btn {
+  margin-left: 0.5rem;
+}
+
+.btn.form-btn-submit {
+  color: #ffffff;
+  background: #45b1e4;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn.form-btn-cancel {
+  color: rgb(69, 177, 228);
+  background: transparent;
+  font-weight: bold;
+  cursor: pointer;
+}
