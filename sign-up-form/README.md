@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # Build Vite Project
-**cd** to your **MindX-CIJS** source folder then typing Commands Sequentially in Your Terminal
+**cd** to your **sign-up-form** source folder then typing Commands Sequentially in Your Terminal
 ```
 npm install
 npm run dev
